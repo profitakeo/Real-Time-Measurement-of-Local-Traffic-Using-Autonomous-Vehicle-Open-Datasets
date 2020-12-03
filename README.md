@@ -1,5 +1,5 @@
 # Real Time Measurement of Local Traffic Using Autonomous Vehicle Open Datasets
-This thesis measures localised traffic using AV LiDAR data from Waymo Open Dataset.
+This thesis measures localised traffic using AV LiDAR data from Waymo Open Dataset in U.S. cities such as San Francisco, Phoenix and Mountain View.
 It has been submitted in fulfilment of the requirements for the degree of Bachelor of Civil Engineering (Honours) at UNSW.
 
 ## Inspiration
